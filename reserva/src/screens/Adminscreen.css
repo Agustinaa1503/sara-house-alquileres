@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Titillium+Web:ital,wght@0,200;0,300;0,600;0,700;1,400&family=Yellowtail&display=swap');
+
+.title-Adm {
+    font-size: 3rem;
+}
+
+.title-panel {
+    text-align: left;
+    font-size: 2rem;
+    color: #ce0045;
+}
+
+ul {
+    list-style: none;
+}
+
+.cantidad-reservas {
+    color: #ce0045;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.form-control3 {
+    box-shadow: none;
+    border: 2px solid #d7d5d5;
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    text-align: left;
+    margin: 5px;
+
+}
+.form-control3:hover {
+    border: 2px solid #ce0045;
+}
+
+
+@media only screen and (max-width: 570px) {
+    .table {
+        width: 30px;
+        height: 30px;
+    }
+}

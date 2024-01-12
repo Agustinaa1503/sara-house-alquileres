@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Sara House Large - Santa Rosa de Calamuchita",
+        "image":[
+            "/img/Large4.jpg",
+            "/img/Large6.jpeg",
+            "/img/Large8.jpg",
+            "/img/Large12.jpeg",
+            "/img/Large13.jpeg"
+        ],
+        "rentperday": 1500,
+        "type": "Casa de lujo",
+        "maxcount": 7,
+        "phone": 3517607650,
+        "currentbookings": [
+
+        ],
+        "description": "Sara House Large es una casa de lujo, tiene capacidad máxima para 7 personas. Con desayuno de campo incluído. Dispone de TV, wifi, aire acondicionado, ropa blanca. Pileta de uso exclusivo, quincho y estacionamiento privado. Somos Pet Friendly"
+    },
+    {
+        "name": "Casa en Santa Rosa de Calamuchita",
+        "image":[
+            "/img/Casa.1.jpeg",
+            "/img/Casa4.jpg",
+            "/img/Casa.5.jpeg",
+            "/img/Casa.4.jpeg",
+            "/img/Casa5.jpg"
+        ],
+        "rentperday": 1000,
+        "type": "Casa en Complejo",
+        "maxcount": 6,
+        "phone": 3517607650,
+        "currentbookings": [
+
+        ],
+        "description": "Casa en complejo, ubicación excelente. Capacidad máxima para 6 personas. Con desayuno de campo incluído. Dispone de TV, wifi, aire acondicionado, ropa blanca. Pileta de uso compartido y estacionamiento. Somos Pet Friendly"
+    },
+    {
+        "name": "Departamento en Santa Rosa de Calamuchita",
+        "image":[
+            "/img/Dpto1.jpeg",
+            "/img/Dpto3.jpg",
+            "/img/Dpto5.jpeg",
+            "/img/Dpto6.jpeg",
+            "/img/Dpto7.jpg"
+        ],
+        "rentperday": 900,
+        "type": "Departamento en Complejo",
+        "maxcount": 4,
+        "phone": 3517607650,
+        "currentbookings": [
+
+        ],
+        "description": "Departamento en complejo, ubicación excelente. Capacidad máxima para 4 personas. Con desayuno de campo incluído. Dispone de TV, wifi, aire acondicionado, ropa blanca. Pileta de uso compartido y estacionamiento. Somos Pet Friendly"
+    },
+    {
+        "name": "Departamento en Santa Rosa de Calamuchita",
+        "image":[
+            "/img/Dpto1.jpeg",
+            "/img/Dpt4.jpg",
+            "/img/Dpt5.jpg",
+            "/img/Dpt8.jpg",
+            "/img/Dpt9.jpg"
+        ],
+        "rentperday": 900,
+        "type": "Departamento en Complejo",
+        "maxcount": 4,
+        "phone": 3517607650,
+        "currentbookings": [
+
+        ],
+        "description": "Departamento en complejo, ubicación excelente. Capacidad máxima para 4 personas. Con desayuno de campo incluído. Dispone de TV, wifi, aire acondicionado, ropa blanca. Pileta de uso compartido y estacionamiento. Somos Pet Friendly"
+    },
+    {
+        "name": "Cabaña 1 en Villa General Belgrano",
+        "image":[
+            "/img/Edit2.jpeg",
+            "/img/Edit3.jpeg",
+            "/img/Edit6.jpeg",
+            "/img/Edit4.jpeg",
+            "/img/Edit7.jpeg"
+        ],
+        "rentperday": 1300,
+        "type": "Cabaña en Complejo",
+        "maxcount": 4,
+        "phone": 3517607650,
+        "currentbookings": [
+
+        ],
+        "description": "Cabaña en complejo, ubicación excepcional. Capacidad máx de 4 personas. Con desayuno de campo incluído. Dispone de TV, wifi libre, aire acondicionado, ropa blanca. Pileta de uso compartido y estacionamiento. Somos Pet Friendly"
+    },
+    {
+        "name": "Cabaña 2 en Villa General Belgrano",
+        "image":[
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "rentperday": 1300,
+        "type": "Cabaña en Complejo",
+        "maxcount": 4,
+        "phone": 3517607650,
+        "currentbookings": [
+
+        ],
+        "description": "Cabaña en complejo, ubicación excepcional. Capacidad máx de 4 personas. Con desayuno de campo incluído. Dispone de TV, wifi libre, aire acondicionado, ropa blanca. Pileta de uso compartido y estacionamiento. Somos Pet Friendly"
+    },
+    {
+        "name": "Cabaña 3 en Villa General Belgrano",
+        "image":[
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "rentperday": 1300,
+        "type": "Cabaña en Complejo",
+        "maxcount": 4,
+        "phone": 3517607650,
+        "currentbookings": [
+
+        ],
+        "description": "Cabaña en complejo, ubicación excepcional. Capacidad máx de 4 personas. Con desayuno de campo incluído. Dispone de TV, wifi libre, aire acondicionado, ropa blanca. Pileta de uso compartido y estacionamiento. Somos Pet Friendly"
+    }
+]

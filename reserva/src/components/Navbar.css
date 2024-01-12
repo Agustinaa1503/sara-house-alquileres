@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #000091;
+    width: 100%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.collapse {
+    margin-right: 100px;
+    
+}
+
+.navbar-toggler {
+    background-color: #ce0045;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+

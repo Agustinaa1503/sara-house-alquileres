@@ -1,0 +1,26 @@
+.titleProfile {
+    text-align: left;
+    margin-left: 10px;
+}
+
+h3 {
+    font-size: 1rem;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.listProfile {
+    list-style: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    width: 50%;
+}
+
+.title-reservation {
+    color: #ce0045;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 1.5rem;
+}

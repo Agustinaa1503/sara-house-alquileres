@@ -1,0 +1,32 @@
+body {
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.img-reservation {
+    height: 400px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+h1 {
+    color: #ce0045;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.form-control-canthusp {
+    box-shadow: none;
+    border: 2px solid #d7d5d5;
+    width: 20%;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+.form-control-canthusp:hover {
+    border: 2px solid #ce0045;
+}
+
+

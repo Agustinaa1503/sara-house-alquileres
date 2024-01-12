@@ -1,0 +1,29 @@
+input.form-control, .ant-picker {
+    box-shadow: none;
+    margin-left: 350px;
+    border: 1px solid #d7d5d5;
+    width: 100%;
+    height: 40px;
+}
+
+input.form-control:hover, .ant-picker:hover {
+    border: 2px solid #ce0045;
+}
+
+svg {
+    color: #ce0045;
+    font-size: 1rem;
+}
+
+
+/*.swal2-success-line-long, .swal2-success-line-tip {
+    
+}*/
+
+
+@media screen and (max-width: 768px) {
+    input.form-control, .ant-picker {
+        margin-left: 0;
+    }
+    
+}
